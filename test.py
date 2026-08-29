@@ -1,3 +1,3 @@
 x = 3
-if x == 3:
-    print()
+if x == 4:
+    print("test")
