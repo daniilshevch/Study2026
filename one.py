@@ -15,3 +15,8 @@ def perform_operation(a, b, operation):
 
 perform_operation(3, 4, "add")
 
+def minus(a, b):
+    print(f"{a} - {b} = {a - b}")
+
+perform_operation(10, 5, "minus")
+
