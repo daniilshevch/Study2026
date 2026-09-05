@@ -23,3 +23,6 @@ perform_operation(10, 5, "minus")
 for p in range(3):
     print(f"Loop iteration: {p}")
 
+
+for i in range(100):
+    print(i)
